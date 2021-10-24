@@ -7,26 +7,37 @@ namespace Exercicio_2
     {
         static void Main(string[] args)
         {
-            int escolha = 0;
-            float n = 0;
-            float p = 0;
-            Console.Write("Digite o número de notas que será Calculado a média:");
-            int numeroNotas = int.Parse(Console.ReadLine());
-
+            Console.Clear();
+            //variáveis peso e nota
+            float nota = 0;
+            float peso = 0;
+            //somatorios da media
+            float somaPesoENota = 0;
+            float somaPesos = 0;
+            //media ponderada
+            float media = 0;
             do
             {
-                Console.Write("Digite -1 para sair ou 0 para continuar:");
-                escolha = int.Parse(Console.ReadLine());
-                if(escolha == -1)
+                Console.Write("Digite -1 para sair \nOu a nota do aluno: ");
+                nota = float.Parse(Console.ReadLine());
+                //uma condição para sair do loop
+                if(nota == -1)
                     break;
-                Console.Write("Digite sua nota: ");
-                n = float.Parse(Console.ReadLine());
-                Console.Write("Digite o peso da nota: ");
-                p = float.Parse(Console.ReadLine()); 
+                Console.Write("Digite o peso da nota do aluno: ");
+                peso=float.Parse(Console.ReadLine());
 
-            } while (escolha != -1);
 
-           
+                //somatorios
+                somaPesoENota += (peso * nota);
+                somaPesos += peso;
+                
+
+            } while (nota != -1);
+
+            // media ponderada
+            media = somaPesoENota / somaPesos;
+
+            Console.WriteLine("A média das notas é igual a: " +Math.Round(media,2));
         }
     }
 }
