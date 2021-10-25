@@ -1,9 +1,6 @@
 # Exercicios_Fundamentos_Em_CSharp
 
-<details>
-<summary>
-    <b>Exercícios Pasta Conceito</b>
-</summary>
+#### Exercícios Pasta Conceito
 <b> Exercício 1 </b> </br>
 Escreva um programa que solicita que sejam digitadas três notas de um aluno e um peso para
 cada nota. Calcule e imprima a média do aluno. [ir para o código](/Conceitos/Exercicio_1/Program.cs) <br/>
@@ -18,4 +15,3 @@ calculada e o resultado impresso na tela.[ir para o código](/Conceitos/Exercici
 3. Começando em 0, imprima os números seguintes, enquanto a soma dos números já
 impressos for menor que 100. <br/>
 4. Imprima a tabuada do 9 (até o décimo valor).[ir para o código](/Conceitos/Exercicio_3/Program.cs)
-</details>
