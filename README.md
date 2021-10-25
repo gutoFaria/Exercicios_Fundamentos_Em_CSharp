@@ -25,3 +25,7 @@ Escreva um programa que calcule o fatorial de 10. [ir para o código](/Conceitos
 <b>Exercício 5</b> </br>
 Imprima os 15 primeiros números da série de Fibonacci. A série de Fibonacci possui a seguinte sequência numérica: 0, 1, 1, 2, 3, 5, 8, 13, 21, etc. Para calculá-la, o primeiro e segundo elementos valem 1, daí por diante, o n-ésimo elemento
 vale o (n-1)-ésimo elemento somado ao (n-2)-ésimo elemento (ex: 8 = 5 + 3). [ir para o código](/Conceitos/Exercicio_5/Program.cs) </br>
+
+<b>Exercício 6</b> </br>
+Escreva um programa que imprime na saída os valores assumidos por x. Esta variável x deve
+iniciar com algum valor inteiro, fornecido pelo usuário. Se x for par, x deve receber o valor dele mesmo somado com 5. Já se x for ímpar, x deve receber o valor dele multiplicado por 2. O programa termina assim que x for maior que 1000. Por exemplo, para x = 10, a saída deve ser: 15, 30, 35, 70, 75, 150, 155, 310, 315, 630, 635, 1270. Faça este exercício usando blocos if e depois usando blocos switch. [ir para o código](/Conceitos/Exercicio_6/Program.cs) </br>
