@@ -1,9 +1,9 @@
 # Exercicios_Fundamentos_Em_CSharp
 
 <details>
-<sumary>
+<summary>
     <b>Exercícios Pasta Conceito</b>
-</sumary>
+</summary>
 <b> Exercício 1 </b>
 Escreva um programa que solicita que sejam digitadas três notas de um aluno e um peso para
 cada nota. Calcule e imprima a média do aluno. [ir para o código](/Conceitos/Exercicio_1/Program.cs) <br/>
