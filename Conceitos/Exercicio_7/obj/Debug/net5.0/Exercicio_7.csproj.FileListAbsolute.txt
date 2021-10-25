@@ -1,0 +1,16 @@
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\bin\Debug\net5.0\Exercicio_7.exe
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\bin\Debug\net5.0\Exercicio_7.deps.json
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\bin\Debug\net5.0\Exercicio_7.runtimeconfig.json
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\bin\Debug\net5.0\Exercicio_7.runtimeconfig.dev.json
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\bin\Debug\net5.0\Exercicio_7.dll
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\bin\Debug\net5.0\ref\Exercicio_7.dll
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\bin\Debug\net5.0\Exercicio_7.pdb
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\obj\Debug\net5.0\Exercicio_7.csproj.AssemblyReference.cache
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\obj\Debug\net5.0\Exercicio_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\obj\Debug\net5.0\Exercicio_7.AssemblyInfoInputs.cache
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\obj\Debug\net5.0\Exercicio_7.AssemblyInfo.cs
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\obj\Debug\net5.0\Exercicio_7.csproj.CoreCompileInputs.cache
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\obj\Debug\net5.0\Exercicio_7.dll
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\obj\Debug\net5.0\ref\Exercicio_7.dll
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\obj\Debug\net5.0\Exercicio_7.pdb
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\Conceitos\Exercicio_7\obj\Debug\net5.0\Exercicio_7.genruntimeconfig.cache

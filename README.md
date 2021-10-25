@@ -29,3 +29,9 @@ vale o (n-1)-ésimo elemento somado ao (n-2)-ésimo elemento (ex: 8 = 5 + 3). [i
 <b>Exercício 6</b> </br>
 Escreva um programa que imprime na saída os valores assumidos por x. Esta variável x deve
 iniciar com algum valor inteiro, fornecido pelo usuário. Se x for par, x deve receber o valor dele mesmo somado com 5. Já se x for ímpar, x deve receber o valor dele multiplicado por 2. O programa termina assim que x for maior que 1000. Por exemplo, para x = 10, a saída deve ser: 15, 30, 35, 70, 75, 150, 155, 310, 315, 630, 635, 1270. Faça este exercício usando blocos if e depois usando blocos switch. [ir para o código](/Conceitos/Exercicio_6/Program.cs) </br>
+
+<b>Exercício 7</b> </br>
+Verifique a validade de uma data e mostre uma mensagem na tela dizendo se a data é válida ou
+inválida. Devem existir três variáveis para armazenar o dia, o mês e o ano, e o usuário deve
+fornecer os valores para estas variáveis via console. Considerar que fevereiro pode ter
+somente 28 dias e que anos válidos estão compreendidos entre 1900 e 2999. [ir para o código](/Conceitos/Exercicio_7/Program.cs) </br>
