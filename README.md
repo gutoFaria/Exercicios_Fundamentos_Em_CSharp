@@ -101,3 +101,6 @@ Prova 2
 Nota Parte 1 6.0
 Nota Parte 2 1.5
  [ir para o código](/3Objetos/Exercicio_2/Program.cs ) </br>
+
+ <b>Exercício 1</b> </br>
+Crie uma classe Lampada que possui um field ligada, que indica se a lâmpada está ligada ou desligada. Ao construir uma lâmpada, o estado dela (ligada ou desligada) deve ser fornecido. Para ligar e desligar a lâmpada, os métodos Ligar() e Desligar() devem ser chamados, respectivamente. Aliás, esta é a única forma de alterar o estado da lâmpada, já que o field ligada não pode ser acessado de fora da classe. A lâmpada também possui um método Imprimir(). Quando chamado, ele mostra as mensagens “Lâmpada ligada” ou “Lâmpada desligada”, dependendo do estado atual. Construa uma aplicação que cria uma lâmpada ligada, muda o estado dela e também imprime o estado atual após cada chamada a Ligar() e Desligar(). [ir para o código](/4Encapsulamento/Exercicio_1) </br>
