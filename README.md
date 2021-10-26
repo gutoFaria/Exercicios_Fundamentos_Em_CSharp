@@ -53,4 +53,4 @@ ponteiro do relógio. Os parâmetros passados são hora, minuto e segundo.
 · LerMinuto(): retorna o minuto atual do relógio.
 · LerSegundo(): retorna o segundo atual do relógio.
 Fields da classe Ponteiro:
-· posicao(int): indica em qual posição está o ponteiro (1, 2, 3, 4, etc.).  [ir para o código](/Classes e Estruturas/Exercicio_1/Program.cs) </br>
+· posicao(int): indica em qual posição está o ponteiro (1, 2, 3, 4, etc.).  [ir para o código](/ClasseEstrutura/Exercicio_1/Program.cs) </br>
