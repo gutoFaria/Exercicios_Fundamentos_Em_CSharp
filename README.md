@@ -54,3 +54,7 @@ ponteiro do relógio. Os parâmetros passados são hora, minuto e segundo.
 · LerSegundo(): retorna o segundo atual do relógio.
 Fields da classe Ponteiro:
 · posicao(int): indica em qual posição está o ponteiro (1, 2, 3, 4, etc.).  [ir para o código](/ClasseEstrutura/Exercicio_1/Program.cs) </br>
+
+<b>Exercício 2</b> </br>
+Pratica básica de struct </br>
+Crie a estrutura (struct) Fracao, que representa uma fração matemática. Esta estrutura deve ser capaz de armazenar o numerador e o denominador da fração. Ela ainda deve ter um método que recebe uma fração como parâmetro, multiplica ambas as frações, e retorna uma nova fração como resultado. Crie um programa simples que instancia duas frações, define seus valores, calcula o valor da multiplicação entre elas e mostra o resultado. [ir para o código]((/ClasseEstrutura/Exercicio_2/Program.cs) </br>
