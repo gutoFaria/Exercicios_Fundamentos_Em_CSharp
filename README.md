@@ -35,3 +35,22 @@ Verifique a validade de uma data e mostre uma mensagem na tela dizendo se a data
 inválida. Devem existir três variáveis para armazenar o dia, o mês e o ano, e o usuário deve
 fornecer os valores para estas variáveis via console. Considerar que fevereiro pode ter
 somente 28 dias e que anos válidos estão compreendidos entre 1900 e 2999. [ir para o código](/Conceitos/Exercicio_7/Program.cs) </br>
+
+### Exercícios Pasta Classes e Estruturas
+
+<b>Exercício 1</b> </br>
+Nesse exercício objetivei apenas praticar alguns coceitos de classe , métodos. </br>
+Crie as classes Relogio e Ponteiro e escreva um método Main() para treinar a chamada aos
+métodos e fields.
+Fields da classe Relogio:
+· ponteiroHora (tipo Ponteiro)
+· ponteiroMinuto (tipo Ponteiro)
+· ponteiroSegundo (tipo Ponteiro)
+Métodos da classe Relogio:
+· AcertarRelogio(int, int, int): Acerta o relógio, posicionando adequadamente cada
+ponteiro do relógio. Os parâmetros passados são hora, minuto e segundo.
+· LerHora(): retorna a hora atual do relógio.
+· LerMinuto(): retorna o minuto atual do relógio.
+· LerSegundo(): retorna o segundo atual do relógio.
+Fields da classe Ponteiro:
+· posicao(int): indica em qual posição está o ponteiro (1, 2, 3, 4, etc.).  [ir para o código](/Classes e Estruturas/Exercicio_1/Program.cs) </br>
