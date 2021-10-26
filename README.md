@@ -1,6 +1,6 @@
 # Exercicios_Fundamentos_Em_CSharp
 
-### Exercícios Pasta Conceito
+## Exercícios Pasta Conceito
 
 <b> Exercício 1 </b> </br>
 Escreva um programa que solicita que sejam digitadas três notas de um aluno e um peso para
@@ -36,7 +36,7 @@ inválida. Devem existir três variáveis para armazenar o dia, o mês e o ano, 
 fornecer os valores para estas variáveis via console. Considerar que fevereiro pode ter
 somente 28 dias e que anos válidos estão compreendidos entre 1900 e 2999. [ir para o código](/Conceitos/Exercicio_7/Program.cs) </br>
 
-### Exercícios Pasta Classes e Estruturas
+## Exercícios Pasta ClasseEstruturas
 
 <b>Exercício 1</b> </br>
 Nesse exercício objetivei apenas praticar alguns coceitos de classe , métodos. </br>
