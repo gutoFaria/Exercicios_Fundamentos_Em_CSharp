@@ -63,3 +63,41 @@ Crie a estrutura (struct) Fracao, que representa uma fração matemática. Esta 
 <b>Exercício 6</b> </br>
 Crie classes que representam as figuras geométricas: Triangulo, Quadrado, Circunferencia e Trapezio. Cada uma destas classes deve ter um método para calcular a sua área, com a seguinte assinatura: double CalcularArea().</br>
 Perceba que o método CalcularArea() não recebe parâmetros. Portanto todos os dados necessários devem ser armazenados no objeto da classe em fields, para depois serem utilizados pelo método. [ir para o código](/3Objetos/Exercicio_1/Program.cs ) </br>
+
+<b>Exercício 4</b> </br>
+Uma turma é composta por três alunos. Cada um dos alunos realizou duas provas, onde cada
+prova possuía duas partes. Observe uma descrição sobre o que cada método faz:
+Classe Método Descrição
+Turma CalcularMedia() Calcula a média da turma. A média é calculada utilizando a
+média de cada aluno da turma.
+Aluno CalcularMedia() Calcula a média do aluno. A média é calculada utilizando a
+nota total das duas provas realizadas por ele.
+Prova CalcularNotaTotal() Calcula a nota total da prova. Esta nota é data pela soma
+das notas das partes 1 e 2. A nota total não pode
+ultrapassar 10.0.
+Crie uma aplicação que instancia a turma, os três alunos e as duas provas para cada aluno.
+Defina também notas para as provas. A aplicação deve mostrar mensagens informando a
+média de cada aluno e a média geral da turma.
+Para a definição das notas, utilize as seguintes informações:
+Aluno 1
+Prova 1
+Nota Parte 1 4.0
+Nota Parte 2 2.5
+Prova 2
+Nota Parte 1 1.0
+Nota Parte 2 7.0
+Aluno 2
+Prova 1
+Nota Parte 1 6.5
+Nota Parte 2 3.5
+Prova 2
+Nota Parte 1 0.0
+Nota Parte 2 3.0
+Aluno 3
+Prova 1
+Nota Parte 1 5.0
+Nota Parte 2 4.0
+Prova 2
+Nota Parte 1 6.0
+Nota Parte 2 1.5
+ [ir para o código](/3Objetos/Exercicio_2/Program.cs ) </br>

@@ -1,0 +1,16 @@
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\bin\Debug\net5.0\Exercicio_2.exe
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\bin\Debug\net5.0\Exercicio_2.deps.json
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\bin\Debug\net5.0\Exercicio_2.runtimeconfig.json
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\bin\Debug\net5.0\Exercicio_2.runtimeconfig.dev.json
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\bin\Debug\net5.0\Exercicio_2.dll
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\bin\Debug\net5.0\ref\Exercicio_2.dll
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\bin\Debug\net5.0\Exercicio_2.pdb
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\obj\Debug\net5.0\Exercicio_2.csproj.AssemblyReference.cache
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\obj\Debug\net5.0\Exercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\obj\Debug\net5.0\Exercicio_2.AssemblyInfoInputs.cache
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\obj\Debug\net5.0\Exercicio_2.AssemblyInfo.cs
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\obj\Debug\net5.0\Exercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\obj\Debug\net5.0\Exercicio_2.dll
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\obj\Debug\net5.0\ref\Exercicio_2.dll
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\obj\Debug\net5.0\Exercicio_2.pdb
+C:\Users\guto\Desktop\Exercicios_Fundamentos_Em_CSharp\3Objetos\Exercicio_2\obj\Debug\net5.0\Exercicio_2.genruntimeconfig.cache
