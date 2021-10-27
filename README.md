@@ -102,5 +102,12 @@ Nota Parte 1 6.0
 Nota Parte 2 1.5
  [ir para o código](/3Objetos/Exercicio_2/Program.cs ) </br>
 
+### Pasta Encapsulamento
  <b>Exercício 1</b> </br>
 Crie uma classe Lampada que possui um field ligada, que indica se a lâmpada está ligada ou desligada. Ao construir uma lâmpada, o estado dela (ligada ou desligada) deve ser fornecido. Para ligar e desligar a lâmpada, os métodos Ligar() e Desligar() devem ser chamados, respectivamente. Aliás, esta é a única forma de alterar o estado da lâmpada, já que o field ligada não pode ser acessado de fora da classe. A lâmpada também possui um método Imprimir(). Quando chamado, ele mostra as mensagens “Lâmpada ligada” ou “Lâmpada desligada”, dependendo do estado atual. Construa uma aplicação que cria uma lâmpada ligada, muda o estado dela e também imprime o estado atual após cada chamada a Ligar() e Desligar(). [ir para o código](/4Encapsulamento/Exercicio_1) </br>
+
+ <b>Exercício 2</b> </br>
+ Crie uma classe Data que possui dois construtores. O primeiro recebe um dia, mês e ano e o segundo, além destas informações, recebe também uma hora, minuto e segundo (a hora
+fornecida deve estar entre 0 e 23). É importante que este segundo construtor invoque o
+primeiro para evitar a duplicação de código. Os construtores devem armazenar os dados fornecidos como parâmetros em fields privados. Estes fields devem ter seus valores expostos para fora da classe usando read-only properties. A classe Data deve ter também um método Imprimir(), utilizado para imprimir a data e hora representados pelo objeto. Este método recebe como parâmetro o formato de hora que deve ser utilizado para imprimir as horas (12 ou 24h). Se o objeto for construído sem informação de horário, este parâmetro não afeta a impressão. Os formatos da hora são do tipo int, mas devem ser representados por duas constantes na classe Data: FORMATO_12H e FORMATO_24H.
+ [ir para o código](/4Encapsulamento/Exercicio_1) </br>
