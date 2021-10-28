@@ -119,3 +119,10 @@ Crie duas classes: Ponto2D e Ponto3D. Ponto2D possui como fields as coordenadas 
 enquanto Ponto3D, além delas, também possui a coordenada z. Utilize a relação de herança
 para representar estas classes. A respeito dos construtores, Ponto2D deve ter apenas um construtor, que recebe os valores de x e y como parâmetros (tipo double). Já Ponto3D também deve ter apenas um construtor, que deve receber x, y e z como parâmetros (também do tipo double). Dica: Se a relação de herança e a declaração dos construtores foram feitas corretamente, você deverá, obrigatoriamente, chamar o construtor da superclasse explicitamente. Ambas as classes devem implementar o método Imprimir(), que exibe no console os valores das coordenadas do objeto.
  [ir para o código](/5Heranca/Exercicio_1) </br>
+
+  <b>Exercício 2</b> </br>
+O C# possui uma interface chamada ICloneable, que pode ser implementada por classes que
+são capazes de gerar cópias de objetos. Classes que implementam esta interface devem
+implementar o método Clone(). Dentro deste método é implementada a lógica para criar um
+novo objeto com base no objeto original. Com base nisto, crie uma classe Porta que suporta a criação de novos objetos (cópia). Ela deve ter os fields altura (double), largura (double) e aberta (boolean). Também deve possuir os métodos Abrir(), Fechar() e os valores dos fields devem ser expostos para fora da classe através de read-only properties. Como uma porta pode criar outras cópias dela mesma, você deve implementar o método Clone() na classe, o qual deve criar um novo objeto com os valores dos atributos copiados e retorná-lo.
+ [ir para o código](/5Heranca/Exercicio_2) </br>
