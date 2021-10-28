@@ -59,7 +59,7 @@ Fields da classe Ponteiro:
 Pratica básica de struct </br>
 Crie a estrutura (struct) Fracao, que representa uma fração matemática. Esta estrutura deve ser capaz de armazenar o numerador e o denominador da fração. Ela ainda deve ter um método que recebe uma fração como parâmetro, multiplica ambas as frações, e retorna uma nova fração como resultado. Crie um programa simples que instancia duas frações, define seus valores, calcula o valor da multiplicação entre elas e mostra o resultado. [ir para o código](/2ClasseEstrutura/Exercicio_2/Program.cs) </br>
 
-### Exercícios Pasta Objetos
+## Exercícios Pasta Objetos
 <b>Exercício 6</b> </br>
 Crie classes que representam as figuras geométricas: Triangulo, Quadrado, Circunferencia e Trapezio. Cada uma destas classes deve ter um método para calcular a sua área, com a seguinte assinatura: double CalcularArea().</br>
 Perceba que o método CalcularArea() não recebe parâmetros. Portanto todos os dados necessários devem ser armazenados no objeto da classe em fields, para depois serem utilizados pelo método. [ir para o código](/3Objetos/Exercicio_1/Program.cs ) </br>
@@ -102,7 +102,7 @@ Nota Parte 1 6.0
 Nota Parte 2 1.5
  [ir para o código](/3Objetos/Exercicio_2/Program.cs ) </br>
 
-### Pasta Encapsulamento
+## Exercício Pasta Encapsulamento
  <b>Exercício 1</b> </br>
 Crie uma classe Lampada que possui um field ligada, que indica se a lâmpada está ligada ou desligada. Ao construir uma lâmpada, o estado dela (ligada ou desligada) deve ser fornecido. Para ligar e desligar a lâmpada, os métodos Ligar() e Desligar() devem ser chamados, respectivamente. Aliás, esta é a única forma de alterar o estado da lâmpada, já que o field ligada não pode ser acessado de fora da classe. A lâmpada também possui um método Imprimir(). Quando chamado, ele mostra as mensagens “Lâmpada ligada” ou “Lâmpada desligada”, dependendo do estado atual. Construa uma aplicação que cria uma lâmpada ligada, muda o estado dela e também imprime o estado atual após cada chamada a Ligar() e Desligar(). [ir para o código](/4Encapsulamento/Exercicio_1) </br>
 
@@ -111,3 +111,11 @@ Crie uma classe Lampada que possui um field ligada, que indica se a lâmpada est
 fornecida deve estar entre 0 e 23). É importante que este segundo construtor invoque o
 primeiro para evitar a duplicação de código. Os construtores devem armazenar os dados fornecidos como parâmetros em fields privados. Estes fields devem ter seus valores expostos para fora da classe usando read-only properties. A classe Data deve ter também um método Imprimir(), utilizado para imprimir a data e hora representados pelo objeto. Este método recebe como parâmetro o formato de hora que deve ser utilizado para imprimir as horas (12 ou 24h). Se o objeto for construído sem informação de horário, este parâmetro não afeta a impressão. Os formatos da hora são do tipo int, mas devem ser representados por duas constantes na classe Data: FORMATO_12H e FORMATO_24H.
  [ir para o código](/4Encapsulamento/Exercicio_2) </br>
+
+ ## Exercícios Pasta Herança
+
+ <b>Exercício 1</b> </br>
+Crie duas classes: Ponto2D e Ponto3D. Ponto2D possui como fields as coordenadas x e y,
+enquanto Ponto3D, além delas, também possui a coordenada z. Utilize a relação de herança
+para representar estas classes. A respeito dos construtores, Ponto2D deve ter apenas um construtor, que recebe os valores de x e y como parâmetros (tipo double). Já Ponto3D também deve ter apenas um construtor, que deve receber x, y e z como parâmetros (também do tipo double). Dica: Se a relação de herança e a declaração dos construtores foram feitas corretamente, você deverá, obrigatoriamente, chamar o construtor da superclasse explicitamente. Ambas as classes devem implementar o método Imprimir(), que exibe no console os valores das coordenadas do objeto.
+ [ir para o código](/5Heranca/Exercicio_1) </br>
