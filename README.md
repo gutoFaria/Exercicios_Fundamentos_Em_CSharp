@@ -126,3 +126,5 @@ são capazes de gerar cópias de objetos. Classes que implementam esta interface
 implementar o método Clone(). Dentro deste método é implementada a lógica para criar um
 novo objeto com base no objeto original. Com base nisto, crie uma classe Porta que suporta a criação de novos objetos (cópia). Ela deve ter os fields altura (double), largura (double) e aberta (boolean). Também deve possuir os métodos Abrir(), Fechar() e os valores dos fields devem ser expostos para fora da classe através de read-only properties. Como uma porta pode criar outras cópias dela mesma, você deve implementar o método Clone() na classe, o qual deve criar um novo objeto com os valores dos atributos copiados e retorná-lo.
  [ir para o código](/5Heranca/Exercicio_2) </br>
+
+# Voltar no Polimorfismo
