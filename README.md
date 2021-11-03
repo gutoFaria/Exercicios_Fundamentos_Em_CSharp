@@ -150,11 +150,43 @@ SaldoInsuficienteException).
  [ir para o código](/7Excessao/Exercicio_1) </br>
 
    <b>Exercício 2</b> </br>
-Imagine que a sua aplicação é composta pelo seguinte código:
+Imagine que a sua aplicação é composta pelo seguinte código:<br>
 object o = null;<br>
 o.toString();<br>
 Se você executar este código irá perceber que uma exceção será lançada. Identifique que
 exceção é esta e altere este mesmo código para que ele exiba uma mensagem amigável de
 erro e termine normalmente.
  [ir para o código](/7Excessao/Exercicio_2) </br>
+
+
+## Exercícios Pasta String
+   <b>Exercício 1</b> </br>
+Implemente um método Processar(), que recebe uma string s como parâmetro e retorna
+uma nova string. Ele deve funcionar da seguinte forma: Se s for null, o método retorna null.
+Se o tamanho de s for menor ou igual a 3, a string s convertida para maiúscula é
+retornada.
+ Se s tiver tamanho maior do que 3, além da conversão para maiúsculo, os 3 primeiros
+caracteres devem ser substituídos por ??? antes da string ser retornada.
+Para exemplificar o funcionamento do algoritmo, observe a tabela abaixo. Ela mostra diversas
+formas de chamar o método e o retorno esperado em cada caso:
+Invocação Retorno
+Processar(null) null
+Processar("ab") AB
+Processar("abcdefg") ???DEFG
+Dica: Você pode usar o método Substring() presente na classe String para poder retornar
+os caracteres a partir da quarta posição.
+ [ir para o código](/8String/Exercicio_1/Program.cs) </br>
+
+   <b>Exercício 2</b> </br>
+Crie um enum chamado Bebida que pode assumir as opções Refrigerante, Suco e Agua,
+com os respectivos valores 1, 2 e 3 associados.
+Mostre no console as opções de bebidas existentes no enum e solicite ao usuário a digitação,
+via console, de uma bebida (1, 2 ou 3). Mostre então o nome da bebida associada à opção
+digitada.
+Dica: Se você desejar converter a string retornada por Console.ReadLine() em um int,
+você pode usar o método int.Parse() e fornecer a string como parâmetro. Caso a
+conversão não possa ser realizada, esta chamada vai lançar uma exceção do tipo
+FormatException
+ [ir para o código](/8String/Exercicio_2/Program.cs) <
+
 
