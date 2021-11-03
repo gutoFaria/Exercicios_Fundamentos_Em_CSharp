@@ -10,7 +10,7 @@ namespace Exercicio_2
             try
             {
                 object o = null;
-                o.toString();
+                o.ToString();
             }
             catch (NullReferenceException e)
             {

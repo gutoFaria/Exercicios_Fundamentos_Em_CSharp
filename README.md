@@ -187,6 +187,17 @@ Dica: Se você desejar converter a string retornada por Console.ReadLine() em um
 você pode usar o método int.Parse() e fornecer a string como parâmetro. Caso a
 conversão não possa ser realizada, esta chamada vai lançar uma exceção do tipo
 FormatException
- [ir para o código](/8String/Exercicio_2/Program.cs) <
+ [ir para o código](/8String/Exercicio_2/Program.cs) 
+
+## Exercícios Pasta String
+
+   <b>Exercício 1</b> </br>
+Criar uma classe que representa produtos que possua fields nome, peso(double) , e data de vencimento.
+ [ir para o código](/9Data/Exercicio_1/Program.cs) 
+
+<b>Exercício 2</b> </br>
+Pedir ao usuário 6 números. Simular um sorteio da mega-sena 1 a 60. e comparar quantos o usuário acertou nesse sorteio.
+ [ir para o código](/9Data/Exercicio_2/Program.cs) 
+
 
 
