@@ -199,5 +199,16 @@ Criar uma classe que representa produtos que possua fields nome, peso(double) , 
 Pedir ao usuário 6 números. Simular um sorteio da mega-sena 1 a 60. e comparar quantos o usuário acertou nesse sorteio.
  [ir para o código](/9Data/Exercicio_2/Program.cs) 
 
+## Exercícios Pasta Generics
+
+
+   <b>Exercício 1</b> </br>
+Criar uma classe chamada ServiceFactory<T> que possua um método chamado NewInstance().Quando este método é chamado , ele cria um objeto do tipo T (invocando o construtor padrão, sem parâmentros) e retorna este objeto.Um detalhe importante é que apenas classes que implementam a interface IService (que também deve ser definida por você) devem ser aceitos na parametrização do tipo. Esta interface possui o método void Execute(), que deve ser implementado pelas classes que implementam esta interface.
+ [ir para o código](/10Generics/Exercicio_1) 
+
+<b>Exercício 2</b> </br>
+Um triângulo é uma figura geométrica que possui três pontos. Crie as estruturas Triangulo e Ponto para representar estes conceitos.A estrutura Ponto possui as properties X,Y, e Z , que correspondem às coordenadas dos pontos, e tipo de dado das coordenadas deve ser parametrizado através do uso de generics . Já a estrutura Triangulo possui as properties P1, P2 e P3 , que correspondem aos três pontos que compõem o triângulo. Trangulo deve ser parametrizado com o uso de generics , e o tipo parametrizado deve ser utilizado nos pontos do triângulo.No método Main() da aplicação, crie difderentes triângulos e pontos com diversos tipos de dados a fim de validar a implementação realizada.
+ [ir para o código](/10Generics/Exercicio_2/Program.cs) 
+
 
 
