@@ -46,8 +46,11 @@ namespace Exercicio_2
             for (int a = 0; a < 6; a++)
             {
                 Console.WriteLine("Sua escolha: "+escolhas[a]+"\t Sorteio: "+mega[a]);
-                if(escolhas[a] == mega[a])
+                for (int z = 0; z < 6; z++)
+                {
+                    if(escolhas[a] == mega[z])
                     cont++;
+                } 
             }
 
             Console.WriteLine("Acertos: " + cont);

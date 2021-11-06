@@ -4,37 +4,51 @@
 
 <b> Exercício 1 </b> </br>
 Escreva um programa que solicita que sejam digitadas três notas de um aluno e um peso para
-cada nota. Calcule e imprima a média do aluno. [ir para o código](/1Conceitos/Exercicio_1/Program.cs) <br/>
+cada nota. Calcule e imprima a média do aluno. 
+
+[ir para o código](/1Conceitos/Exercicio_1/Program.cs) <br/>
 
 <b> Exercício 2 </b> </br>
 Escreva um programa semelhante ao do exercício 1, mas agora o número de notas e pesos
 pode variar. O usuário deve digitar quantas notas ele desejar e, para parar, a nota -1 deve ser
 digitada. Neste momento a média das notas e pesos digitados anteriormente deve ser
-calculada e o resultado impresso na tela.[ir para o código](/1Conceitos/Exercicio_2/Program.cs)</br>
+calculada e o resultado impresso na tela.
+
+[ir para o código](/1Conceitos/Exercicio_2/Program.cs)</br>
 
 <b> Exercício 3 </b> </br>
 1. Imprima todos os números de 10 a 25. <br/>
 2. Imprima a soma dos números de 1 a 100, pulando de dois em dois (1, 3, 5, 7, etc.). <br/>
 3. Começando em 0, imprima os números seguintes, enquanto a soma dos números já
 impressos for menor que 100. <br/>
-4. Imprima a tabuada do 9 (até o décimo valor).[ir para o código](/1Conceitos/Exercicio_3/Program.cs) </br>
+4. Imprima a tabuada do 9 (até o décimo valor).
+
+[ir para o código](/1Conceitos/Exercicio_3/Program.cs) </br>
 
 <b>Exercício 4</b> </br>
-Escreva um programa que calcule o fatorial de 10. [ir para o código](/1Conceitos/Exercicio_4/Program.cs) </br>
+Escreva um programa que calcule o fatorial de 10. 
+
+[ir para o código](/1Conceitos/Exercicio_4/Program.cs) </br>
 
 <b>Exercício 5</b> </br>
 Imprima os 15 primeiros números da série de Fibonacci. A série de Fibonacci possui a seguinte sequência numérica: 0, 1, 1, 2, 3, 5, 8, 13, 21, etc. Para calculá-la, o primeiro e segundo elementos valem 1, daí por diante, o n-ésimo elemento
-vale o (n-1)-ésimo elemento somado ao (n-2)-ésimo elemento (ex: 8 = 5 + 3). [ir para o código](/1Conceitos/Exercicio_5/Program.cs) </br>
+vale o (n-1)-ésimo elemento somado ao (n-2)-ésimo elemento (ex: 8 = 5 + 3). 
+
+[ir para o código](/1Conceitos/Exercicio_5/Program.cs) </br>
 
 <b>Exercício 6</b> </br>
 Escreva um programa que imprime na saída os valores assumidos por x. Esta variável x deve
-iniciar com algum valor inteiro, fornecido pelo usuário. Se x for par, x deve receber o valor dele mesmo somado com 5. Já se x for ímpar, x deve receber o valor dele multiplicado por 2. O programa termina assim que x for maior que 1000. Por exemplo, para x = 10, a saída deve ser: 15, 30, 35, 70, 75, 150, 155, 310, 315, 630, 635, 1270. Faça este exercício usando blocos if e depois usando blocos switch. [ir para o código](/1Conceitos/Exercicio_6/Program.cs) </br>
+iniciar com algum valor inteiro, fornecido pelo usuário. Se x for par, x deve receber o valor dele mesmo somado com 5. Já se x for ímpar, x deve receber o valor dele multiplicado por 2. O programa termina assim que x for maior que 1000. Por exemplo, para x = 10, a saída deve ser: 15, 30, 35, 70, 75, 150, 155, 310, 315, 630, 635, 1270. Faça este exercício usando blocos if e depois usando blocos switch. 
+
+[ir para o código](/1Conceitos/Exercicio_6/Program.cs) </br>
 
 <b>Exercício 7</b> </br>
 Verifique a validade de uma data e mostre uma mensagem na tela dizendo se a data é válida ou
 inválida. Devem existir três variáveis para armazenar o dia, o mês e o ano, e o usuário deve
 fornecer os valores para estas variáveis via console. Considerar que fevereiro pode ter
-somente 28 dias e que anos válidos estão compreendidos entre 1900 e 2999. [ir para o código](/1Conceitos/Exercicio_7/Program.cs) </br>
+somente 28 dias e que anos válidos estão compreendidos entre 1900 e 2999. 
+
+[ir para o código](/1Conceitos/Exercicio_7/Program.cs) </br>
 
 ## Exercícios Pasta ClasseEstruturas
 
@@ -53,16 +67,22 @@ ponteiro do relógio. Os parâmetros passados são hora, minuto e segundo.
 · LerMinuto(): retorna o minuto atual do relógio.
 · LerSegundo(): retorna o segundo atual do relógio.
 Fields da classe Ponteiro:
-· posicao(int): indica em qual posição está o ponteiro (1, 2, 3, 4, etc.).  [ir para o código](/2ClasseEstrutura/Exercicio_1/Program.cs) </br>
+· posicao(int): indica em qual posição está o ponteiro (1, 2, 3, 4, etc.).  
+
+[ir para o código](/2ClasseEstrutura/Exercicio_1/Program.cs) </br>
 
 <b>Exercício 2</b> </br>
 Pratica básica de struct </br>
-Crie a estrutura (struct) Fracao, que representa uma fração matemática. Esta estrutura deve ser capaz de armazenar o numerador e o denominador da fração. Ela ainda deve ter um método que recebe uma fração como parâmetro, multiplica ambas as frações, e retorna uma nova fração como resultado. Crie um programa simples que instancia duas frações, define seus valores, calcula o valor da multiplicação entre elas e mostra o resultado. [ir para o código](/2ClasseEstrutura/Exercicio_2/Program.cs) </br>
+Crie a estrutura (struct) Fracao, que representa uma fração matemática. Esta estrutura deve ser capaz de armazenar o numerador e o denominador da fração. Ela ainda deve ter um método que recebe uma fração como parâmetro, multiplica ambas as frações, e retorna uma nova fração como resultado. Crie um programa simples que instancia duas frações, define seus valores, calcula o valor da multiplicação entre elas e mostra o resultado. 
+
+[ir para o código](/2ClasseEstrutura/Exercicio_2/Program.cs) </br>
 
 ## Exercícios Pasta Objetos
 <b>Exercício 6</b> </br>
 Crie classes que representam as figuras geométricas: Triangulo, Quadrado, Circunferencia e Trapezio. Cada uma destas classes deve ter um método para calcular a sua área, com a seguinte assinatura: double CalcularArea().</br>
-Perceba que o método CalcularArea() não recebe parâmetros. Portanto todos os dados necessários devem ser armazenados no objeto da classe em fields, para depois serem utilizados pelo método. [ir para o código](/3Objetos/Exercicio_1/Program.cs ) </br>
+Perceba que o método CalcularArea() não recebe parâmetros. Portanto todos os dados necessários devem ser armazenados no objeto da classe em fields, para depois serem utilizados pelo método.
+
+[ir para o código](/3Objetos/Exercicio_1/Program.cs ) </br>
 
 <b>Exercício 4</b> </br>
 Uma turma é composta por três alunos. Cada um dos alunos realizou duas provas, onde cada
@@ -100,17 +120,21 @@ Nota Parte 2 4.0
 Prova 2
 Nota Parte 1 6.0
 Nota Parte 2 1.5
- [ir para o código](/3Objetos/Exercicio_2/Program.cs ) </br>
+
+[ir para o código](/3Objetos/Exercicio_2/Program.cs ) </br>
 
 ## Exercício Pasta Encapsulamento
  <b>Exercício 1</b> </br>
-Crie uma classe Lampada que possui um field ligada, que indica se a lâmpada está ligada ou desligada. Ao construir uma lâmpada, o estado dela (ligada ou desligada) deve ser fornecido. Para ligar e desligar a lâmpada, os métodos Ligar() e Desligar() devem ser chamados, respectivamente. Aliás, esta é a única forma de alterar o estado da lâmpada, já que o field ligada não pode ser acessado de fora da classe. A lâmpada também possui um método Imprimir(). Quando chamado, ele mostra as mensagens “Lâmpada ligada” ou “Lâmpada desligada”, dependendo do estado atual. Construa uma aplicação que cria uma lâmpada ligada, muda o estado dela e também imprime o estado atual após cada chamada a Ligar() e Desligar(). [ir para o código](/4Encapsulamento/Exercicio_1) </br>
+Crie uma classe Lampada que possui um field ligada, que indica se a lâmpada está ligada ou desligada. Ao construir uma lâmpada, o estado dela (ligada ou desligada) deve ser fornecido. Para ligar e desligar a lâmpada, os métodos Ligar() e Desligar() devem ser chamados, respectivamente. Aliás, esta é a única forma de alterar o estado da lâmpada, já que o field ligada não pode ser acessado de fora da classe. A lâmpada também possui um método Imprimir(). Quando chamado, ele mostra as mensagens “Lâmpada ligada” ou “Lâmpada desligada”, dependendo do estado atual. Construa uma aplicação que cria uma lâmpada ligada, muda o estado dela e também imprime o estado atual após cada chamada a Ligar() e Desligar(). 
+
+[ir para o código](/4Encapsulamento/Exercicio_1) </br>
 
  <b>Exercício 2</b> </br>
  Crie uma classe Data que possui dois construtores. O primeiro recebe um dia, mês e ano e o segundo, além destas informações, recebe também uma hora, minuto e segundo (a hora
 fornecida deve estar entre 0 e 23). É importante que este segundo construtor invoque o
 primeiro para evitar a duplicação de código. Os construtores devem armazenar os dados fornecidos como parâmetros em fields privados. Estes fields devem ter seus valores expostos para fora da classe usando read-only properties. A classe Data deve ter também um método Imprimir(), utilizado para imprimir a data e hora representados pelo objeto. Este método recebe como parâmetro o formato de hora que deve ser utilizado para imprimir as horas (12 ou 24h). Se o objeto for construído sem informação de horário, este parâmetro não afeta a impressão. Os formatos da hora são do tipo int, mas devem ser representados por duas constantes na classe Data: FORMATO_12H e FORMATO_24H.
- [ir para o código](/4Encapsulamento/Exercicio_2) </br>
+
+[ir para o código](/4Encapsulamento/Exercicio_2) </br>
 
  ## Exercícios Pasta Herança
 
@@ -118,14 +142,16 @@ primeiro para evitar a duplicação de código. Os construtores devem armazenar 
 Crie duas classes: Ponto2D e Ponto3D. Ponto2D possui como fields as coordenadas x e y,
 enquanto Ponto3D, além delas, também possui a coordenada z. Utilize a relação de herança
 para representar estas classes. A respeito dos construtores, Ponto2D deve ter apenas um construtor, que recebe os valores de x e y como parâmetros (tipo double). Já Ponto3D também deve ter apenas um construtor, que deve receber x, y e z como parâmetros (também do tipo double). Dica: Se a relação de herança e a declaração dos construtores foram feitas corretamente, você deverá, obrigatoriamente, chamar o construtor da superclasse explicitamente. Ambas as classes devem implementar o método Imprimir(), que exibe no console os valores das coordenadas do objeto.
- [ir para o código](/5Heranca/Exercicio_1) </br>
+
+[ir para o código](/5Heranca/Exercicio_1) </br>
 
   <b>Exercício 2</b> </br>
 O C# possui uma interface chamada ICloneable, que pode ser implementada por classes que
 são capazes de gerar cópias de objetos. Classes que implementam esta interface devem
 implementar o método Clone(). Dentro deste método é implementada a lógica para criar um
 novo objeto com base no objeto original. Com base nisto, crie uma classe Porta que suporta a criação de novos objetos (cópia). Ela deve ter os fields altura (double), largura (double) e aberta (boolean). Também deve possuir os métodos Abrir(), Fechar() e os valores dos fields devem ser expostos para fora da classe através de read-only properties. Como uma porta pode criar outras cópias dela mesma, você deve implementar o método Clone() na classe, o qual deve criar um novo objeto com os valores dos atributos copiados e retorná-lo.
- [ir para o código](/5Heranca/Exercicio_2) </br>
+
+[ir para o código](/5Heranca/Exercicio_2) </br>
 
 # Voltar no Polimorfismo
 
@@ -147,7 +173,8 @@ transferência. Faça transações corretas e também transações que geram exc
 transação gerar exceção, faça um catch da mesma, imprima a mensagem de erro e o valor
 inválido utilizado (para ValorInvalidoException) ou o saldo disponível (para
 SaldoInsuficienteException).
- [ir para o código](/7Excessao/Exercicio_1) </br>
+
+[ir para o código](/7Excessao/Exercicio_1) </br>
 
    <b>Exercício 2</b> </br>
 Imagine que a sua aplicação é composta pelo seguinte código:<br>
@@ -156,7 +183,8 @@ o.toString();<br>
 Se você executar este código irá perceber que uma exceção será lançada. Identifique que
 exceção é esta e altere este mesmo código para que ele exiba uma mensagem amigável de
 erro e termine normalmente.
- [ir para o código](/7Excessao/Exercicio_2) </br>
+
+[ir para o código](/7Excessao/Exercicio_2) </br>
 
 
 ## Exercícios Pasta String
@@ -175,7 +203,8 @@ Processar("ab") AB
 Processar("abcdefg") ???DEFG
 Dica: Você pode usar o método Substring() presente na classe String para poder retornar
 os caracteres a partir da quarta posição.
- [ir para o código](/8String/Exercicio_1/Program.cs) </br>
+
+[ir para o código](/8String/Exercicio_1/Program.cs) </br>
 
    <b>Exercício 2</b> </br>
 Crie um enum chamado Bebida que pode assumir as opções Refrigerante, Suco e Agua,
@@ -187,9 +216,10 @@ Dica: Se você desejar converter a string retornada por Console.ReadLine() em um
 você pode usar o método int.Parse() e fornecer a string como parâmetro. Caso a
 conversão não possa ser realizada, esta chamada vai lançar uma exceção do tipo
 FormatException
- [ir para o código](/8String/Exercicio_2/Program.cs) 
 
-## Exercícios Pasta String
+[ir para o código](/8String/Exercicio_2/Program.cs) 
+
+## Exercícios Pasta Datas
 
    <b>Exercício 1</b> </br>
 Criar uma classe que representa produtos que possua fields nome, peso(double) , e data de vencimento.
@@ -204,11 +234,43 @@ Pedir ao usuário 6 números. Simular um sorteio da mega-sena 1 a 60. e comparar
 
    <b>Exercício 1</b> </br>
 Criar uma classe chamada ServiceFactory<T> que possua um método chamado NewInstance().Quando este método é chamado , ele cria um objeto do tipo T (invocando o construtor padrão, sem parâmentros) e retorna este objeto.Um detalhe importante é que apenas classes que implementam a interface IService (que também deve ser definida por você) devem ser aceitos na parametrização do tipo. Esta interface possui o método void Execute(), que deve ser implementado pelas classes que implementam esta interface.
+
  [ir para o código](/10Generics/Exercicio_1) 
 
 <b>Exercício 2</b> </br>
 Um triângulo é uma figura geométrica que possui três pontos. Crie as estruturas Triangulo e Ponto para representar estes conceitos.A estrutura Ponto possui as properties X,Y, e Z , que correspondem às coordenadas dos pontos, e tipo de dado das coordenadas deve ser parametrizado através do uso de generics . Já a estrutura Triangulo possui as properties P1, P2 e P3 , que correspondem aos três pontos que compõem o triângulo. Trangulo deve ser parametrizado com o uso de generics , e o tipo parametrizado deve ser utilizado nos pontos do triângulo.No método Main() da aplicação, crie difderentes triângulos e pontos com diversos tipos de dados a fim de validar a implementação realizada.
- [ir para o código](/10Generics/Exercicio_2/Program.cs) 
+
+ [ir para o código](/10Generics/Exercicio_2/Program.cs)
+
+## Exercícios Pasta Array
+
+<b>Exercício 1</b>
+Escreva um programa que solicite a entrada de 5 números inteiros via console, os quais deverão ser armazenados em um array.Depois itere sobre os elementos do array e imprima as seguintes indormações na tela: <br>
+1) Média entre os elementos do array. <br/>
+2)Maior valor presente no array <br/>
+3)Menor valor presente no array <br/>
+Para finalizar, ordene os elementos do array em ordem decrescente e imprima os elementos.
+
+[ir para o código](/11Array/Exercicio_1/Program.cs)
+
+<b>Exercício 2</b> <br>
+Crie uma classe Carta que contenha o valor e o naipe (o naipe pode ser um enumeration).Crie também uma classe Baralho , que contém um array de cartas. A classe Baralho deve ter os seguintes métodos:<br/>
+Carta[] Distribuir(int qtde): Distribui cartas do baralho . Aquantidade de cartasdistribuidas épassada como parâmetro, e o retorno do método é um array de cartas distribuídas. As cartas que são distribuídas deixam de fazer parte do baralho, pelo menos conceitumente.<br/>
+void Embaralhar(): Embaralha as cartas do baralho . Cartas já distribuídas não fazem partedo processo de embaralhamento. <br/>
+void MostrarCartas(): Imprime as cartas do baralho. Cartas já distribuídas não devem ser mostradas, pois não fazem mais parte do baralho.<br/>
+Algumas considerações:
+Aquantidade a ser distribuída no processo de distribuição deve ser maior que zero e menor ou igual ao número de cartas existentes no baralho.Caso a quantidade seja inválida, o método deve lançar uma exceção do tipo ArgumentOutRangeException.<br>
+O processo de embaralhamento pode ser feito utilizando outro array , que recebe os elementos do array original de forma randomizada.<br/>
+Durante a randomização no proesso de embaralhamento, é possível que a mesma carta seja sorteada mais de uma vez. Portanto é preciso controlar quais cartas já foram sorteadas e fazer esta checagem, para evitar situações deste tipo, uma dica é utilizarr um array para armazenar os índixes de elementos já sorteados.<br/>
+Crie um método Main() na aplicação que instancia as cartas e  o baralho e faça chamadas aos métodos Distribuir(), Embaralhar() e MostrarCartas() para validar a implementação realizada.
+
+[ir para o código](/11Array/Exercicio_2)
+
+<b>Exercício 3</b><br>
+Faça um programa que cria uma matriz de inteiros de duas dimensões e atribui valores a cada uma das posições desta matriz. O númerode linhas, de colunas e os valores a serem atribuídos para cada posição devem ser lidos via console.<br/>
+Na sequência , imprima a matriz e calcule a soma dos elementos de cada coluna. Esta somadeve ser armazenada em um array. Por exemplo, se a matriz tem tamanho 3x4, você deverá criar um array de 4 posições, onde cada posição armazenará a soma dos 3 valores da coluna. Os valores das somas também deverão ser mostrados.
+
+[ir para o código](/11Array/Exercicio_3/Program.cs)
 
 
 
