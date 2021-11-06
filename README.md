@@ -251,7 +251,7 @@ Escreva um programa que solicite a entrada de 5 números inteiros via console, o
 3)Menor valor presente no array <br/>
 Para finalizar, ordene os elementos do array em ordem decrescente e imprima os elementos.
 
-[ir para o código](/11Array/Exercicio_1/Program.cs)
+[ir para o código](/11Arrays/Exercicio_1/Program.cs)
 
 <b>Exercício 2</b> <br>
 Crie uma classe Carta que contenha o valor e o naipe (o naipe pode ser um enumeration).Crie também uma classe Baralho , que contém um array de cartas. A classe Baralho deve ter os seguintes métodos:<br/>
@@ -264,13 +264,13 @@ O processo de embaralhamento pode ser feito utilizando outro array , que recebe 
 Durante a randomização no proesso de embaralhamento, é possível que a mesma carta seja sorteada mais de uma vez. Portanto é preciso controlar quais cartas já foram sorteadas e fazer esta checagem, para evitar situações deste tipo, uma dica é utilizarr um array para armazenar os índixes de elementos já sorteados.<br/>
 Crie um método Main() na aplicação que instancia as cartas e  o baralho e faça chamadas aos métodos Distribuir(), Embaralhar() e MostrarCartas() para validar a implementação realizada.
 
-[ir para o código](/11Array/Exercicio_2)
+[ir para o código](/11Arrays/Exercicio_2)
 
 <b>Exercício 3</b><br>
 Faça um programa que cria uma matriz de inteiros de duas dimensões e atribui valores a cada uma das posições desta matriz. O númerode linhas, de colunas e os valores a serem atribuídos para cada posição devem ser lidos via console.<br/>
 Na sequência , imprima a matriz e calcule a soma dos elementos de cada coluna. Esta somadeve ser armazenada em um array. Por exemplo, se a matriz tem tamanho 3x4, você deverá criar um array de 4 posições, onde cada posição armazenará a soma dos 3 valores da coluna. Os valores das somas também deverão ser mostrados.
 
-[ir para o código](/11Array/Exercicio_3/Program.cs)
+[ir para o código](/11Arrays/Exercicio_3/Program.cs)
 
 
 
